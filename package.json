@@ -1,0 +1,29 @@
+{
+  "name": "liferay-forms-gulp-tasks",
+  "version": "0.0.5",
+  "description": "Tasks for testing Liferay Forms",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunobasto/liferay-forms-gulp-tasks.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "forms",
+    "liferay",
+    "test"
+  ],
+  "author": "Bruno Basto <bruno.basto@liferay.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "karma": "^0.12.36",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-coverage": "^0.4.2",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-ievms": "0.0.4",
+    "karma-safari-launcher": "^0.1.1",
+    "mocha": "^2.2.5",
+    "open": "0.0.5",
+    "merge": "^1.2.0"
+  }
+}
